@@ -1,4 +1,4 @@
-## Aplicativo de automação para processamento de notas fiscais, capaz de manipular PDFs e XMLs de compras e serviços, realizar download automático dos arquivos, extrair informações estruturadas e gerar planilhas a partir dos dados presentes nos XMLs.
+Aplicativo de automação para processamento de notas fiscais, capaz de manipular PDFs e XMLs de compras e serviços, realizar download automático dos arquivos, extrair informações estruturadas e gerar planilhas a partir dos dados presentes nos XMLs.
 
 🚀 Automação de Processamento de Notas Fiscais (PDF e XML)
 
